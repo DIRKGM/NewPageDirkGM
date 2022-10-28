@@ -9,7 +9,7 @@
 
 window.addEventListener('DOMContentLoaded', event => {
 
-    // Cookie Alter
+    // Cookie Altrt
     function cookie(){
         alert("This website does not store any data about you. Only technically necessary cookies are used.  These are necessary for the website to function at all.");
     }
